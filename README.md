@@ -24,6 +24,9 @@ There are 3 problems and one preparatory step in this week's exercise:
  - [Problem 2 - Accessing monthly average temperatures (9 points)](Exercise-2.ipynb)
  - [Problem 3 - More practice using Markdown (4 points)](Exercise-2.ipynb)
 
+## Notes
+
+Always pull before you push (especially when working in a shared project)!
 
 ## 
 Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
