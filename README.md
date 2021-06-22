@@ -27,3 +27,6 @@ There are 3 problems and one preparatory step in this week's exercise:
 
 ## 
 Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
+
+##Key Notes:
+1. First changes in excercise file
